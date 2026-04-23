@@ -64,19 +64,6 @@ EXE will be created in `dist/` folder.
 
 
 
-## 📂 Project Structure
-
-
-Banker_Project/
-│
-├── main.py
-├── dist/
-│   └── main.exe
-├── screenshots/
-├── README.md
-
-
-
 
 ## 👨‍💻 Developers
 
