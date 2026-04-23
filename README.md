@@ -67,7 +67,7 @@ EXE will be created in `dist/` folder.
 
 ## 👨‍💻 Developers
 
-* Name: Siraj Ibrar, Ateeb Rasid, Muneeb Ur Rahman
+* Name: Siraj Ibrar, Ateeb Rashid, Muneeb Ur Rahman
 * Email: [sirajmughal375@gmail.com](mailto:sirajmughal375@gmail.com)
 
 
